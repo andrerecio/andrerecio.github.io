@@ -1,0 +1,9 @@
+---
+title: "Teaching"
+---
+
+## Econometria (TA) — Sapienza Università di Roma
+
+Esercitazioni — Sapienza Università di Roma
+
+- [Materiale del corso](https://andrerecio.github.io/econometria-triennale/)

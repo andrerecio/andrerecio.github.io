@@ -1,0 +1,12 @@
+---
+title: "Andrea Recine"
+---
+
+PhD student in Economics at [Sapienza Università di Roma](https://www.uniroma1.it/).
+
+My research focuses on
+
+## Contact
+
+- Email: [andrea.recine@uniroma1.it](mailto:andrea.recine@uniroma1.it)
+- GitHub: [andrerecio](https://github.com/andrerecio)

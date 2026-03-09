@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrea Recine"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/andrerecio
+      - icon: envelope
+        href: mailto:andrea.recine@uniroma1.it
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
