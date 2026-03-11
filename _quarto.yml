@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - CNAME
 
 website:
   title: "Andrea Recine"
@@ -22,6 +24,6 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
     toc: false
