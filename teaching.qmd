@@ -2,8 +2,14 @@
 title: "Teaching"
 ---
 
-## Econometria (TA) — Sapienza Università di Roma
+## Current
 
-Esercitazioni — Sapienza Università di Roma
+**Econometria** (A-L and  M-Z) — TA, 2025/26
+[Course Material (in Italian)](https://andrerecio.github.io/econometria-triennale/)
 
-- [Materiale del corso](https://andrerecio.github.io/econometria-triennale/)
+
+## Past
+
+**Econometria** (Prof. Giuseppe Ragusa) — TA, 2024/25
+
+**Politica Economica** — TA, 2024/25
