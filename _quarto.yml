@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Andrea Recine"
+  site-url: https://andrearecine.me
   navbar:
     left:
       - href: index.qmd
