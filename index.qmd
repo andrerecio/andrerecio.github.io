@@ -13,7 +13,7 @@ about:
 
 I am a PhD student in Economics at the [Department of Economics and Law](https://ecodir.web.uniroma1.it/it) at [Sapienza University of Rome](https://www.uniroma1.it/).
 
-My research focuses on Time Series Econometrics, Bayesian Econometrics, Applied Macroeconomics, and Fiscal Policy.
+My research focuses on Time Series Econometrics, Bayesian Econometrics and Applied Macroeconomics.
 
 ## Contact
 
