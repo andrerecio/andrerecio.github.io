@@ -1,5 +1,7 @@
 ---
 title: "Andrea Recine"
+subtitle: "PhD Candidate in Economics — Sapienza University of Rome"
+page-layout: full
 about:
   template: solana
   links:
@@ -11,11 +13,16 @@ about:
       href: https://github.com/andrerecio
 ---
 
-I am a PhD student in Economics at the [Department of Economics and Law](https://ecodir.web.uniroma1.it/it) at [Sapienza University of Rome](https://www.uniroma1.it/).
+
+----------------------------------------------------------------
+
+## About me {.central}
+
+I am a PhD candidate in Economics at the [Department of Economics and Law](https://ecodir.web.uniroma1.it/it) at [Sapienza University of Rome](https://www.uniroma1.it/).
 
 My research focuses on Time Series Econometrics, Bayesian Econometrics and Applied Macroeconomics.
 
-## Contact
 
-- Email: [andrea.recine@uniroma1.it](mailto:andrea.recine@uniroma1.it)
-- GitHub: [andrerecio](https://github.com/andrerecio)
+**E-mail**:  [andrea.recine@uniroma1.it](mailto:andrea.recine@uniroma1.it)
+
+----------------------------------------------------------------------

@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  resources: 
+  resources:
     - CNAME
 
 website:
@@ -25,6 +25,10 @@ website:
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: [simplex, styles.scss]
+    page-layout: full
+    fontsize: 1.1em
     toc: false
+    html-math-method: katex
+    highlight-style: github
+    smooth-scroll: true

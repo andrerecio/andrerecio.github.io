@@ -18,34 +18,27 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Econometria (Laurea in Economia e Finanza) — Sapienza - TA, 2025/26 Course Material (in Italian)"
+    "text": "Econometrics (Laurea in Economia e Finanza) — Sapienza - TA, 2025/26 Course Material (in Italian)"
   },
   {
     "objectID": "teaching.html#current",
     "href": "teaching.html#current",
     "title": "Teaching",
     "section": "",
-    "text": "Econometria (Laurea in Economia e Finanza) — Sapienza - TA, 2025/26 Course Material (in Italian)"
+    "text": "Econometrics (Laurea in Economia e Finanza) — Sapienza - TA, 2025/26 Course Material (in Italian)"
   },
   {
     "objectID": "teaching.html#past",
     "href": "teaching.html#past",
     "title": "Teaching",
     "section": "Past",
-    "text": "Past\nEconometria (Prof. Giuseppe Ragusa) — Sapienza - TA, 2024/25\nPolitica Economica — Sapienza - TA, 2024/25"
+    "text": "Past\nEconometrics (Prof. Giuseppe Ragusa) — Sapienza - TA, 2024/25\nEconomic Policy — Sapienza - TA, 2024/25"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Andrea Recine",
-    "section": "",
-    "text": "I am a PhD student in Economics at the Department of Economics and Law at Sapienza University of Rome.\nMy research focuses on Time Series Econometrics, Bayesian Econometrics and Applied Macroeconomics."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Andrea Recine",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: andrea.recine@uniroma1.it\nGitHub: andrerecio"
+    "section": "About me",
+    "text": "About me\nI am a PhD candidate in Economics at the Department of Economics and Law at Sapienza University of Rome.\nMy research focuses on Time Series Econometrics, Bayesian Econometrics and Applied Macroeconomics.\nE-mail: andrea.recine@uniroma1.it"
   }
 ]
