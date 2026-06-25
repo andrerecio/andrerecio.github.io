@@ -8,6 +8,7 @@ website:
   title: "Andrea Recine"
   site-url: https://andrearecine.me
   navbar:
+    title: false
     left:
       - href: index.qmd
         text: Home
@@ -27,7 +28,7 @@ format:
   html:
     theme: [simplex, styles.scss]
     page-layout: full
-    fontsize: 1.1em
+    fontsize: 1.2em
     toc: false
     html-math-method: katex
     highlight-style: github
