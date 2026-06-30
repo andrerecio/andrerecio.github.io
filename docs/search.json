@@ -7,11 +7,25 @@
     "text": "Download PDF"
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in progress",
-    "text": "Work in progress"
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "clean-beamer"
+  },
+  {
+    "objectID": "code.html#slides",
+    "href": "code.html#slides",
+    "title": "Code",
+    "section": "",
+    "text": "clean-beamer"
+  },
+  {
+    "objectID": "code.html#julia-library",
+    "href": "code.html#julia-library",
+    "title": "Code",
+    "section": "Julia Library",
+    "text": "Julia Library\n\nSystemProjectionsIV.jl"
   },
   {
     "objectID": "teaching.html",
@@ -33,6 +47,13 @@
     "title": "Teaching",
     "section": "Past",
     "text": "Past\nEconometrics (Prof. Giuseppe Ragusa) — Sapienza - TA, 2024/25\nEconomic Policy — Sapienza - TA, 2024/25"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress"
   },
   {
     "objectID": "index.html#about-me",

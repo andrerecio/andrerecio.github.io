@@ -1,6 +1,5 @@
 ---
 title: "Andrea Recine"
-subtitle: "PhD Candidate in Economics — Sapienza University of Rome"
 page-layout: full
 about:
   template: solana

@@ -1,0 +1,12 @@
+---
+title: "Code"
+---
+
+## Slides
+
+- [clean-beamer](https://github.com/andrerecio/clean-beamer)
+
+
+## Julia Library
+
+- [SystemProjectionsIV.jl](https://github.com/andrerecio/SystemProjectionsIV.jl)
