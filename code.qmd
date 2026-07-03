@@ -2,11 +2,11 @@
 title: "Code"
 ---
 
-## Slides
+## Templates
 
 - [clean-beamer](https://github.com/andrerecio/clean-beamer)
 
 
-## Julia Library
+## Libraries
 
 - [SystemProjectionsIV.jl](https://github.com/andrerecio/SystemProjectionsIV.jl)

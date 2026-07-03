@@ -35,3 +35,4 @@ format:
     html-math-method: katex
     highlight-style: github
     smooth-scroll: true
+    canonical-url: true

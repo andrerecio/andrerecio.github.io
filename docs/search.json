@@ -14,18 +14,18 @@
     "text": "clean-beamer"
   },
   {
-    "objectID": "code.html#slides",
-    "href": "code.html#slides",
+    "objectID": "code.html#templates",
+    "href": "code.html#templates",
     "title": "Code",
     "section": "",
     "text": "clean-beamer"
   },
   {
-    "objectID": "code.html#julia-library",
-    "href": "code.html#julia-library",
+    "objectID": "code.html#libraries",
+    "href": "code.html#libraries",
     "title": "Code",
-    "section": "Julia Library",
-    "text": "Julia Library\n\nSystemProjectionsIV.jl"
+    "section": "Libraries",
+    "text": "Libraries\n\nSystemProjectionsIV.jl"
   },
   {
     "objectID": "teaching.html",
