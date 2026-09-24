@@ -10,3 +10,6 @@ title: "Code"
 ## Libraries
 
 - [SystemProjectionsIV.jl](https://github.com/andrerecio/SystemProjectionsIV.jl)
+
+- [LocalProjections.jl](https://github.com/andrerecio/LocalProjections.jl)
+ - [Website](http://andrearecine.me/LocalProjections.jl/)
