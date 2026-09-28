@@ -1,15 +1,111 @@
+
 ---
-title: "Code"
+title: "Code & Software"
+page-layout: full
 ---
 
-## Templates
+I develop and contribute to open-source software for econometrics,
+statistical inference, and reproducible research, primarily in Julia.
 
-- [clean-beamer](https://github.com/andrerecio/clean-beamer)
+My work focuses on instrumental variables, time-series econometrics,
+Bayesian methods, and computational tools for empirical research.
 
+## Research software
 
-## Libraries
+::: {.grid}
 
-- [SystemProjectionsIV.jl](https://github.com/andrerecio/SystemProjectionsIV.jl)
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
 
-- [LocalProjections.jl](https://github.com/andrerecio/LocalProjections.jl)
- - [Website](http://andrearecine.me/LocalProjections.jl/)
+### WeakIV.jl
+
+Post-estimation diagnostics and weak-instrument robust inference
+for instrumental variables models.
+
+**Julia · In Development**
+
+[GitHub Repository](https://github.com/andrerecio/WeakIV.jl){.btn .btn-outline-primary}
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+
+### LocalProjections.jl
+
+A Julia package for estimating impulse response functions
+using local projections.
+
+Forked from the original
+[LocalProjections.jl](https://github.com/gragusa/LocalProjections.jl)
+by Giuseppe Ragusa, with additional features and extensions.
+
+**Julia**
+
+[GitHub](https://github.com/andrerecio/LocalProjections.jl){.btn .btn-outline-primary}
+[Documentation](https://andrearecine.me/LocalProjections.jl/){.btn .btn-outline-secondary}
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+
+### Panel Local Projections
+
+A Julia package for panel local projections, including fixed effects,
+instrumental variables, and robust statistical inference.
+
+The project incorporates advanced inference methods, including
+jackknife estimation and t-LAHR inference.
+
+**Julia · In Development**
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+
+### SystemProjectionsIV.jl
+
+A Julia package for estimating dynamic causal effects using
+instrumental variables and system-based projection methods.
+
+The project focuses on structural identification and the
+estimation of impulse response functions in multivariate
+time-series models.
+
+**Julia**
+
+[GitHub Repository](https://github.com/andrerecio/SystemProjectionsIV.jl){.btn .btn-outline-primary}
+
+:::
+:::
+:::
+
+:::
+
+## Research tools & templates
+
+- [typst-academic-slides](https://github.com/andrerecio/typst-academic-slides) — Minimal academic presentation theme for Typst and Touying.
+- [clean-beamer](https://github.com/andrerecio/clean-beamer) — LaTeX Beamer template for academic presentations.
+
+## Teaching materials
+
+[Econometrics — Undergraduate](https://github.com/andrerecio/econometrics-undergraduate)
+
+Lecture notes and practical materials for undergraduate econometrics,
+developed using Quarto.
+
+---
+
+Explore all my projects on [GitHub](https://github.com/andrerecio).

@@ -9,23 +9,30 @@
   {
     "objectID": "code.html",
     "href": "code.html",
-    "title": "Code",
+    "title": "Code & Software",
     "section": "",
-    "text": "clean-beamer"
+    "text": "I develop and contribute to open-source software for econometrics, statistical inference, and reproducible research, primarily in Julia.\nMy work focuses on instrumental variables, time-series econometrics, Bayesian methods, and computational tools for empirical research."
   },
   {
-    "objectID": "code.html#templates",
-    "href": "code.html#templates",
-    "title": "Code",
-    "section": "",
-    "text": "clean-beamer"
+    "objectID": "code.html#research-software",
+    "href": "code.html#research-software",
+    "title": "Code & Software",
+    "section": "Research software",
+    "text": "Research software\n\n\n\n\nWeakIV.jl\nPost-estimation diagnostics and weak-instrument robust inference for instrumental variables models.\nJulia · In Development\nGitHub Repository\n\n\n\n\n\n\nLocalProjections.jl\nA Julia package for estimating impulse response functions using local projections.\nForked from the original LocalProjections.jl by Giuseppe Ragusa, with additional features and extensions.\nJulia\nGitHub Documentation\n\n\n\n\n\n\nPanel Local Projections\nA Julia package for panel local projections, including fixed effects, instrumental variables, and robust statistical inference.\nThe project incorporates advanced inference methods, including jackknife estimation and t-LAHR inference.\nJulia · In Development\n\n\n\n\n\n\nSystemProjectionsIV.jl\nA Julia package for estimating dynamic causal effects using instrumental variables and system-based projection methods.\nThe project focuses on structural identification and the estimation of impulse response functions in multivariate time-series models.\nJulia\nGitHub Repository"
   },
   {
-    "objectID": "code.html#libraries",
-    "href": "code.html#libraries",
-    "title": "Code",
-    "section": "Libraries",
-    "text": "Libraries\n\nSystemProjectionsIV.jl\nLocalProjections.jl\nWebsite"
+    "objectID": "code.html#research-tools-templates",
+    "href": "code.html#research-tools-templates",
+    "title": "Code & Software",
+    "section": "Research tools & templates",
+    "text": "Research tools & templates\n\ntypst-academic-slides — Minimal academic presentation theme for Typst and Touying.\nclean-beamer — LaTeX Beamer template for academic presentations."
+  },
+  {
+    "objectID": "code.html#teaching-materials",
+    "href": "code.html#teaching-materials",
+    "title": "Code & Software",
+    "section": "Teaching materials",
+    "text": "Teaching materials\nEconometrics — Undergraduate\nLecture notes and practical materials for undergraduate econometrics, developed using Quarto.\n\nExplore all my projects on GitHub."
   },
   {
     "objectID": "teaching.html",
