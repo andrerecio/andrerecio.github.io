@@ -3,15 +3,13 @@
 title: "Research"
 ---
 
-
 ## Work in Progress
 
-### Weak Proxies in SVAR-IV: Why the Usual Intervals Cover, and When Not to Trust Them
+#### Weak Proxies in SVAR-IV: Why the Usual Intervals Cover, and When Not to Trust Them
 
 *With Giuseppe Ragusa*
 
-
-### To the Moon and Back: Estimating the Returns to Space R&D
+#### To the Moon and Back: Estimating the Returns to Space R&D
 
 *With Milos Ciganovic and Massimiliano Tancioni*
 
@@ -19,7 +17,6 @@ title: "Research"
 
 Earlier research projects that are not currently under active development.
 
-### Macroeconomic Effects of Government Defense
-and Non-Defense R&D
+#### Macroeconomic Effects of Government Defense and Non-Defense R&D
 
 *With Massimiliano Tancioni*
