@@ -5,7 +5,7 @@ title: "Research"
 
 ## Work in Progress
 
-#### Weak Proxies in SVAR-IV: Why the Usual Intervals Cover, and When Not to Trust Them
+#### Weak Instruments and Wald Inference for Impulse Responses
 
 *With Giuseppe Ragusa*
 
